@@ -1,5 +1,6 @@
-# Hi 👋 I'm Azaz!
-
+<div align="center">
+  <h1>Hi 👋 I'm [Your Name]</h1>
+</div>
 ## 💫 About Me:
 I am a fourth-year computer science student at Wilfrid Laurier University, interested in machine learning and building projects.
 
